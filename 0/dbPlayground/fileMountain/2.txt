@@ -1,0 +1,10 @@
+0#0#John
+1#1#Tom
+2#4#Jack
+3#9#John
+4#16#John
+5#25#John
+6#36#Jack
+7#49#John
+8#64#John
+9#81#John
